@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c01ad91cc5.fengshanjob.cn/sitemap.xml

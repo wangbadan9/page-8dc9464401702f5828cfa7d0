@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "03e032f4260a33b16ad2b939",
+  "owner": "wangbadan9",
+  "repo": "page-8dc9464401702f5828cfa7d0",
+  "title": "GoFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8dc9464401702f5828cfa7d0",
+      "a": "GoFast",
+      "b": "",
+      "entity": "GoFast",
+      "brand": "GoFast",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b4672831d4097a6cb30a88a1b4c7cf76f81eba4ce45e9916bfa5c00104e257e0",
+      "content": {
+        "keyword1": "GoFast",
+        "keyword2": "",
+        "primary_entity": "GoFast",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GoFast 提供稳定高效的网络加速与数据传输服务。查阅我们的套餐价格、服务规格及常见问题，选择最适合您的方案。",
+          "AI_DESCRIPTION": "GoFast 提供稳定高效的网络加速与数据传输服务。查阅我们的套餐价格、服务规格及常见问题，选择最适合您的方案。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-color: #111111;--accent-color: #ff5500;--border-color: #e0e0e0;--card-bg: #fafafa;--font-sans: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: var(--font-sans);line-height: 1.6;padding: 2rem 1rem}\n\nmain {max-width: 1000px;margin: 0 auto}\n\nheader {margin-bottom: 4rem;border-bottom: 2px solid var(--text-color);padding-bottom: 2rem}\n\n.brand-title {font-size: 3rem;font-weight: 900;letter-spacing: -0.05em;color: var(--text-color);margin-bottom: 0.5rem}\n\n.brand-title span {color: var(--accent-color)}\n\n.tagline {font-size: 1.25rem;font-weight: 500;color: #555;margin-bottom: 1.5rem}\n\n.quick-links {display: flex;gap: 1.5rem;list-style: none;font-size: 0.95rem;font-weight: 700}\n\n.quick-links a {color: var(--text-color);text-decoration: none;border-bottom: 2px solid var(--accent-color);padding-bottom: 2px}\n\nsection {margin-bottom: 5rem}\n\nh2 {font-size: 1.8rem;font-weight: 800;margin-bottom: 2rem;letter-spacing: -0.02em;border-left: 6px solid var(--accent-color);padding-left: 0.75rem}\n\n.timeline {position: relative;padding-left: 2rem;border-left: 2px dashed var(--accent-color)}\n\n.timeline-item {position: relative;margin-bottom: 2.5rem}\n\n.timeline-item::before {content: \"\";position: absolute;left: -2.35rem;top: 0.25rem;width: 12px;height: 12px;background-color: var(--accent-color);border-radius: 50%}\n\n.timeline-step {font-size: 0.85rem;font-weight: 700;text-transform: uppercase;color: var(--accent-color);margin-bottom: 0.25rem}\n\n.timeline-content h3 {font-size: 1.2rem;font-weight: 700;margin-bottom: 0.5rem}\n\n.timeline-content p {color: #444;font-size: 0.95rem}\n\n.ticket-card {border: 2px dashed var(--border-color);background: var(--card-bg);padding: 2rem;margin-bottom: 1.5rem;position: relative}\n\n.ticket-card.featured {border-color: var(--accent-color)}\n\n.ticket-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1rem;border-bottom: 1px dashed var(--border-color);padding-bottom: 1rem}\n\n.ticket-title {font-size: 1.4rem;font-weight: 800}\n\n.ticket-price {font-size: 1.5rem;font-weight: 900;color: var(--accent-color)}\n\n.ticket-features {list-style: none;margin-bottom: 1.5rem}\n\n.ticket-features li {padding: 0.3rem 0;font-size: 0.95rem;color: #333}\n\n.ticket-features li::before {content: \"— \";color: var(--accent-color);font-weight: bold}\n\n.ticket-action {display: inline-block;background-color: var(--text-color);color: var(--bg-color);padding: 0.6rem 1.2rem;font-size: 0.9rem;font-weight: 700;text-decoration: none;text-transform: uppercase}\n\n.ticket-action.primary {background-color: var(--accent-color)}\n\n.table-container {overflow-x: auto}\n\ntable {width: 100%;border-collapse: collapse;text-align: left;font-size: 0.95rem}\n\nth, td {border: 2px solid var(--border-color);padding: 1rem}\n\nth {background-color: var(--card-bg);font-weight: 800}\n\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr}\n}\n\n.faq-item {border: 2px solid var(--border-color);padding: 1.5rem;background: var(--card-bg)}\n\n.faq-question {font-weight: 700;font-size: 1.05rem;margin-bottom: 0.75rem;color: var(--text-color)}\n\n.faq-answer {color: #555;font-size: 0.95rem}\n\nfooter {border-top: 2px solid var(--text-color);padding-top: 2rem;margin-top: 4rem;font-size: 0.85rem;color: #666;display: flex;justify-content: space-between;align-items: center}\n</style><main>\n  <header>\n    <h1 class=\"brand-title\">Go<span>Fast</span></h1>\n    <p class=\"tagline\">面向专业需求的稳定网络加速与数据传输服务指南。</p>\n    <ul class=\"quick-links\">\n      <li><a href=\"#workflow\">接入流程</a></li>\n      <li><a href=\"#plans\">服务套餐</a></li>\n      <li><a href=\"#comparison\">规格对照</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n  </header>\n\n  <section id=\"workflow\">\n    <h2>接入流程</h2>\n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <div class=\"timeline-step\">步骤 01</div>\n        <div class=\"timeline-content\">\n          <h3>注册账户</h3>\n          <p>访问官方注册页面填写基本信息并激活账户，开启您的服务配置旅程。</p>\n        </div>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-step\">步骤 02</div>\n        <div class=\"timeline-content\">\n          <h3>选择并订购套餐</h3>\n          <p>根据实际网络吞吐量和设备并发需求，挑选符合规范的基础版、旗舰版或团队版方案。</p>\n        </div>\n      </div>\n      <div class=\"timeline-item\">\n        <div class=\"timeline-step\">步骤 03</div>\n        <div class=\"timeline-content\">\n          <h3>获取客户端与订阅</h3>\n          <p>在用户面板获取专属订阅地址，导入至兼容的主流客户端即可完成连接配置。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>服务套餐</h2>\n    \n    <div class=\"ticket-card\">\n      <div class=\"ticket-header\">\n        <span class=\"ticket-title\">基础版</span>\n        <span class=\"ticket-price\">¥15/月</span>\n      </div>\n      <ul class=\"ticket-features\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n        <li>按年付仅需 ¥150/年</li>\n      </ul>\n      <a href=\"#\" class=\"ticket-action\">选择基础版</a>\n    </div>\n\n    <div class=\"ticket-card featured\">\n      <div class=\"ticket-header\">\n        <span class=\"ticket-title\">旗舰版 [推荐]</span>\n        <span class=\"ticket-price\">¥35/月</span>\n      </div>\n      <ul class=\"ticket-features\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n        <li>按年付仅需 ¥350/年</li>\n      </ul>\n      <a href=\"#\" class=\"ticket-action primary\">选择旗舰版</a>\n    </div>\n\n    <div class=\"ticket-card\">\n      <div class=\"ticket-header\">\n        <span class=\"ticket-title\">团队版</span>\n        <span class=\"ticket-price\">¥85/月</span>\n      </div>\n      <ul class=\"ticket-features\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n        <li>按年付仅需 ¥850/年</li>\n      </ul>\n      <a href=\"#\" class=\"ticket-action\">选择团队版</a>\n    </div>\n  </section>\n\n  <section id=\"comparison\">\n    <h2>规格对照表</h2>\n    <div class=\"table-container\">\n      <table>\n        <thead>\n          <tr>\n            <th>规格参数</th>\n            <th>基础版</th>\n            <th>旗舰版</th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>月度流量</td>\n            <td>100GB</td>\n            <td>300GB</td>\n            <td>1000GB</td>\n          </tr>\n          <tr>\n            <td>在线设备</td>\n            <td>3 台</td>\n            <td>5 台</td>\n            <td>20 台</td>\n          </tr>\n          <tr>\n            <td>线路类型</td>\n            <td>普通线路节点池</td>\n            <td>IPLC 专线优化</td>\n            <td>VIP 专属高带宽节点</td>\n          </tr>\n          <tr>\n            <td>流媒体解锁</td>\n            <td>基础解锁</td>\n            <td>全节点原生解锁</td>\n            <td>全节点原生解锁</td>\n          </tr>\n          <tr>\n            <td>技术支持</td>\n            <td>标准支持</td>\n            <td>7x24 优先工单</td>\n            <td>专属客户经理</td>\n          </tr>\n          <tr>\n            <td>月付价格</td>\n            <td>¥15 / 月</td>\n            <td>¥35 / 月</td>\n            <td>¥85 / 月</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-grid\">\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">支持哪些客户端和操作系统？</div>\n        <div class=\"faq-answer\">本服务兼容主流操作系统的标准客户端，您可以在用户面板获取详细的配置教程与客户端下载指引。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">流量额度耗尽后如何处理？</div>\n        <div class=\"faq-answer\">当月度高速流量额度使用完毕后，您可以选择在后台购买流量加油包，或等待下个账单周期自动重置。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">是否支持退款或更换套餐？</div>\n        <div class=\"faq-answer\">支持在规定时间内按规则申请变更套餐或未生效服务的使用调整，具体条款请参阅服务协议。</div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-question\">IPLC 专线与普通线路的区别是什么？</div>\n        <div class=\"faq-answer\">IPLC 专线不经过公共互联网，具备极低的延迟与抗干扰能力，适合对稳定性和速度有极高要求的场景。</div>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <p>© GoFast. 保留所有权利。</p>\n    <p>务实连接，高效传输。</p>\n  </footer>\n</main>",
+          "hash": "78ef1bf16e6a64e4bb70f3791f33aaf661ee68e21f5f625099626540324a156e",
+          "seo": {
+            "title": "GoFast - 高效网络加速与数据传输服务",
+            "keywords": "GoFast, 网络加速, 数据传输, 专线服务, 稳定连接",
+            "description": "GoFast 提供稳定高效的网络加速与数据传输服务。查阅我们的套餐价格、服务规格及常见问题，选择最适合您的方案。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "6485",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fengshanjob.cn",
+    "host": "p-c01ad91cc5.fengshanjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "986d5d298a2cd575a32776baaca770dd87ed5c487765bca12c3102c434862ead",
+    "sitemap.xml": "b44cf3a5163991e10b0b47e373945fe7f462fe56afc0a12c56bf795a030856d0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c81de10f490ca4d8325f4f52b9c0733813b5f51c747ec2edc9c278ce762330e9",
+    "robots.txt": "db840a23add44852197a72fa5ce3452ca889c79e3d97d9bcecb12fd6b2d4393e",
+    "23e664ec7f01316cdde80398c1b28022.txt": "5102643ff1c284354f643a0093d4e8f92569ea5a8ecfd1181ad02a0cac0c97d7"
+  },
+  "revision": "8446c4f8523b2cff82412e063a57ffc8c28da794db0460792279a87a74744f57"
+}
